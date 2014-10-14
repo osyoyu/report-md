@@ -1,0 +1,53 @@
+body {
+  font-family: 'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;
+  font-size: 13px;
+}
+
+h1 {
+  font-weight: normal;
+  border-left: solid 4px #F08300;
+  border-bottom: solid 1px #F08300;
+  padding-left: 4px;
+  padding-bottom: 1px;
+}
+
+h2 {
+  font-weight: normal;
+  border-left: solid 3px #F08300;
+  margin-left: 1px;
+  padding-left: 5px;
+}
+
+h3 {
+  font-weight: normal;
+  border-left: solid 2px #F08300;
+  margin-left: 2px;
+  padding-left: 5px;
+}
+
+h4 {
+  font-weight: normal;
+  border-left: solid 1px #F08300;
+  margin-left: 3px;
+  padding-left: 5px;
+}
+
+h5 {
+  font-weight: normal;
+}
+
+h6 {
+  font-weight: normal;
+}
+
+pre {
+  background: #EEEEEE;
+  margin-left: 10px;
+  padding: 9px;
+}
+
+code {
+  background: #EEEEEE;
+  font-size: 12px;
+  font-family: "Osaka-mono", monospace;
+}
