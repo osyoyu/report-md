@@ -5,35 +5,36 @@ body {
 
 h1 {
   font-weight: normal;
+  text-align: center;
+}
+
+h2 {
+  font-weight: normal;
   border-left: solid 4px #F08300;
   border-bottom: solid 1px #F08300;
   padding-left: 4px;
   padding-bottom: 1px;
 }
 
-h2 {
+h3 {
   font-weight: normal;
   border-left: solid 3px #F08300;
   margin-left: 1px;
   padding-left: 5px;
 }
 
-h3 {
+h4 {
   font-weight: normal;
   border-left: solid 2px #F08300;
   margin-left: 2px;
   padding-left: 5px;
 }
 
-h4 {
+h5 {
   font-weight: normal;
   border-left: solid 1px #F08300;
   margin-left: 3px;
   padding-left: 5px;
-}
-
-h5 {
-  font-weight: normal;
 }
 
 h6 {
