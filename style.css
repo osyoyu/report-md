@@ -40,6 +40,10 @@ h6 {
   font-weight: normal;
 }
 
+p {
+  margin-left: 10px;
+}
+
 pre {
   background: #EEEEEE;
   margin-left: 10px;
